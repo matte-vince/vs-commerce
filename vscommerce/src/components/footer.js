@@ -18,7 +18,9 @@ class Footer extends Component {
             </div>
             <div className="footer-copyright default_color">
                 <div className="container">
-                    Made with love by <a className="white-text" href="https://www.facebook.com/karanveer.singh.7">Singh karanveer & <a className="white-text" href="https://www.matteovincenzi.com/"></a> Vincenzi Matteo</a>. Thanks to <a className="white-text" href="http://materializecss.com/">materializecss</a>
+                    Made with love by <a className="white-text" href="https://www.facebook.com/karanveer.singh.7"> Singh karanveer  </a> &
+                    <a className="white-text" href="https://www.matteovincenzi.com/"> Vincenzi Matteo </a>.
+                    Thanks to <a className="white-text" href="http://materializecss.com/">materializecss</a>
                 </div>
             </div>
         </footer>);
