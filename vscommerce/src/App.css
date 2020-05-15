@@ -1,0 +1,75 @@
+:root{
+  --mainBlue: #2a2a72
+}
+
+body{
+	font-family: 'Roboto', sans-serif !important;
+}
+.activator{
+  width: auto !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+}
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialicons/v50/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+.card .card-content .card-title {
+  display: block;
+  line-height: 32px;
+  margin-bottom: 8px;
+  max-height: 42px;
+  overflow: hidden;
+}
+
+#cart-button{
+  height: auto;
+  text-align: center;
+  background-color: #2196F3;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  border-radius: 0;
+}
+.card-content{
+  padding-bottom: 5px!important;
+}
+
+.progress .indeterminate {
+  background-color: #2196f3 !important;
+}
+
+.collapsible-body{
+  background-color: white;
+}
+
+.datepicker-date-display,.datepicker-table td.is-selected{
+  background-color: #2196f3 !important;
+}
+
+.datepicker-cancel, .datepicker-clear, .datepicker-today, .datepicker-done{
+  color: #2196F3 !important;
+}
+#contact {
+  margin-top: 400px !important;
+}
