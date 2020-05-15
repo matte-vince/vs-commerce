@@ -12,3 +12,4 @@
 ##### MADE WITH :heart: BY <a href="https://www.matteovincenzi.com/"> MATTEO VINCENZI </a> & <a href="https://www.facebook.com/karanveer.singh.7"> KARANVEER SINGH </a>
 
 ##### Tutti i diritti riservati :lock:
+##### Licenza: http://www.gnu.org/licenses/gpl-3.0.txt :memo:
